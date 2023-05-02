@@ -10,8 +10,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Algorithm
 1. Import all the reqired packages.
 2. print arrays of x and y.
-3. use sigmoid function to get the output b/w 1 and 0.
-4.Using decision boundary plot the graph and find probabiluty and the mean value.
+3. use sigmoid function to get the output b/w 1 and 0
+4.Using decision boundary plot the graph and find probabiluty and the mean value
 5.Display all the outputs.
 
 ## Program:
